@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "title": "2026년 사업 계획 발표",
+    "author": "홍길동",
+    "date": "2026-03-25"
+  },
+  "slides": [
+    {
+      "layout": "Title Slide",
+      "content": {
+        "title": "2026년 사업 계획",
+        "subtitle": "성장 전략 및 핵심 과제"
+      }
+    },
+    {
+      "layout": "Content",
+      "content": {
+        "title": "핵심 추진 과제",
+        "bullets": [
+          "디지털 전환 가속화",
+          "글로벌 시장 확대",
+          "신기술 R&D 투자",
+          "인재 확보 및 육성",
+          "ESG 경영 강화"
+        ]
+      }
+    },
+    {
+      "layout": "Chart",
+      "content": {
+        "title": "매출 추이",
+        "chart": {
+          "type": "auto",
+          "categories": ["Q1", "Q2", "Q3", "Q4"],
+          "series": [
+            {"name": "2025년", "values": [1200, 1500, 1350, 1800]},
+            {"name": "2026년 (목표)", "values": [1500, 1900, 1700, 2300]}
+          ]
+        }
+      }
+    },
+    {
+      "layout": "Table",
+      "content": {
+        "title": "부서별 예산 배분",
+        "table": {
+          "headers": ["부서", "2025년 예산", "2026년 예산", "증감률"],
+          "rows": [
+            ["개발팀", "50억", "65억", "+30%"],
+            ["마케팅", "30억", "38억", "+27%"],
+            ["영업팀", "20억", "25억", "+25%"],
+            ["인사팀", "10억", "12억", "+20%"]
+          ]
+        }
+      }
+    },
+    {
+      "layout": "SmartArt",
+      "content": {
+        "title": "추진 로드맵",
+        "smartart": {
+          "type": "process",
+          "items": ["현황 분석", "전략 수립", "실행 계획", "성과 측정", "피드백"]
+        }
+      }
+    },
+    {
+      "layout": "SmartArt",
+      "content": {
+        "title": "핵심 가치 체계",
+        "smartart": {
+          "type": "cycle",
+          "items": ["혁신", "신뢰", "협력", "성장"]
+        }
+      }
+    }
+  ],
+  "design_preferences": {
+    "enhance": true,
+    "color_scheme": "professional",
+    "prefer_charts_over_tables": true
+  }
+}
